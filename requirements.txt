@@ -1,0 +1,4 @@
+hvac==2.3.0
+pylibacl==0.7.0
+wrapt==1.16.0
+requests==2.32.3
